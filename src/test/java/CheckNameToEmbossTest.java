@@ -30,7 +30,7 @@ public class CheckNameToEmbossTest {
                 {"12", false},
                 {"12345 7890123456789", false},
                 {"12345 78901234567890", false},
-                {null, false},
+
         };
     }
 
